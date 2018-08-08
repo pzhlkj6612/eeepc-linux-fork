@@ -30,3 +30,10 @@ shutdown will be initiated.  This will turn the fan to 100%, throttle the CPU,
 and probably even shutdown the machine.  Your CPU may or may not survive this
 treatment...
 
+
+---
+Append:
+
+http://www.sampletheweb.com/2007/12/30/overclock-your-asus-eee-pc-fsb-on-ubuntu/
+https://help.ubuntu.com/community/EeePC/Using#Overclocking
+* https://liliputing.com/2008/04/guide-to-overclocking-eee-pc-or-how-to.html
